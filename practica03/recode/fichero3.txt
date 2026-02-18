@@ -1,0 +1,2 @@
+recode utf-8..windows-1252 fichero
+Modifica el fichero, convirtiendo desde utf-8 hasta windows-1252

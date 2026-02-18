@@ -1,0 +1,2 @@
+recode latin-1..utf-8
+Lee stdin, convierte desde latin-1 hasta utf-8 y escribe en stdout
